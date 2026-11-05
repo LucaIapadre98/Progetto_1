@@ -23,8 +23,6 @@ export default function EmployeeCard({ nome, ruolo, dipartimento, onSelect, onDe
             <button onClick={onDelete}>
                 Elimina
             </button>
-
         </div>
-
     );
 };
